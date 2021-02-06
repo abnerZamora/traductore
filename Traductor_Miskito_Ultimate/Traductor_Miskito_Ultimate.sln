@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentacion\Presentacion.csproj", "{B90F4D91-D4F1-4D5D-B898-16CED3BFECA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Media", "Media\Media.csproj", "{D137BC66-5A9B-4777-A098-E0C6472FBC2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Datos", "Datos\Datos.csproj", "{A87D3926-305B-411B-9E66-B4CBCDC33CC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B90F4D91-D4F1-4D5D-B898-16CED3BFECA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B90F4D91-D4F1-4D5D-B898-16CED3BFECA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B90F4D91-D4F1-4D5D-B898-16CED3BFECA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B90F4D91-D4F1-4D5D-B898-16CED3BFECA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D137BC66-5A9B-4777-A098-E0C6472FBC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D137BC66-5A9B-4777-A098-E0C6472FBC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D137BC66-5A9B-4777-A098-E0C6472FBC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D137BC66-5A9B-4777-A098-E0C6472FBC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A87D3926-305B-411B-9E66-B4CBCDC33CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A87D3926-305B-411B-9E66-B4CBCDC33CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A87D3926-305B-411B-9E66-B4CBCDC33CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A87D3926-305B-411B-9E66-B4CBCDC33CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
